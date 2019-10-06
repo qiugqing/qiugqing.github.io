@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Test</title>
+      <link href="/2019/09/30/test/"/>
+      <url>/2019/09/30/test/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><h1 id="TEST"><a href="#TEST" class="headerlink" title="TEST"></a>TEST</h1><p>网易云音乐插件：</p><p>1</p><div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=418603077&amp;auto=1&amp;height=66"></iframe></div> aplayer获取mp3链接：        <div id="aplayer-JkRoEHCW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-JkRoEHCW"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "后来",              author: "刘若英",              url: "http://music.163.com/song/media/outer/url?id=254574.mp3",              pic: "http://p2.music.126.net/eBF7bHnJYBUfOFrJ_7SUfw==/109951163351825356.jpg?param=130y130",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>4、opendrive:</p>        <div id="aplayer-YFIWcFWh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-YFIWcFWh"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "告白气球",              author: "周杰伦",              url: "https://od.lk/s/MThfMTM0OTQ4MzVf/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E5%91%8A%E7%99%BD%E6%B0%94%E7%90%83.flac",              pic: "https://y.gtimg.cn/music/photo_new/T002R300x300M000003RMaRI1iFoYd.jpg?max_age=2592000",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>emoji_test:</p><p><span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f609.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png?v8">😉</span></p><p><img src="" alt="1.jpg"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
